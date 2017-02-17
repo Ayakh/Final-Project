@@ -1,0 +1,271 @@
+@charset "utf-8";
+/* CSS Document */
+.container{
+	
+	width:1170px;
+	
+	background:#EBE6E6;
+	margin:0 auto;
+	
+	}
+.logo{
+	
+	
+	margin:0 auto;
+	padding-left:0px; 
+	float:left;}
+	
+	.menu ul {
+		list-style-type:none;
+		
+		float:left;
+		padding-left:582px;}
+
+.menu ul li{
+	
+	float:left;
+margin-right:30px;
+	font-family: Arial, Helvetica, sans-serif;
+	    font-size: 24px;
+		font-weight:bold;
+		color:#B0A5A5;
+		 line-height:70px;
+		
+	}
+	.menu ul li:hover{
+		background:#009688;
+		border-radius:4px;}
+	
+		.header{
+			
+			padding:50px;
+			width:1700px;
+			height:50px;
+			background:#FFFFFF;
+			margin-bottom:0px;
+			
+					
+			}
+			
+			.content{
+				
+				float:left;
+				width:390px;
+				height:400px;
+				background:#009688;
+				}
+				.mainimage{
+					
+				float:left;
+				width:780px;
+				height:400px;
+					}
+					
+					.mainimage img{
+						width:780px;
+					}
+					
+					.menu{
+						margin-right:10px;
+						}
+					
+				
+				h1{
+					
+					text-align:center;
+					margin:0 auto;
+					padding:25%;
+					font-size:36px;
+					color:#E4E3E3;
+					text-justify:kashida;}
+					
+					.main{
+			           
+						background-color:#EBE6E6;
+						}
+						h2{
+					
+					text-align:center;
+					float:left;
+				
+					font-size:36px;
+					color:#009688;
+					}
+					
+					.clear{
+						
+						clear:left;}
+						
+						.Firstprouduct{
+							
+							margin-right:20px;
+							padding-left:80px;
+							padding-top:90px;
+							border-bottom:1px solid #8E8787;
+						
+							
+							}
+							
+							.p1{padding-left:40px;
+								float:left;
+								margin-top:20px;
+								}
+								
+							span{
+									
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+color:#009688;}
+									
+									
+									
+.active{
+										
+font-size:14px;
+padding-top:188px;
+}
+										
+a:active{
+color:#E5E3E3;	}
+											
+											
+.secoundprouduct{
+margin-right:20px;
+padding-left:80px;
+padding-top:70px;
+border-bottom:1px solid #8E8787;
+												
+}
+												
+.thirdprouduct{
+padding-left:80px;
+ padding-top:70px;
+ padding-bottom:50px;
+ border-bottom:1px solid #8E8787;
+												
+}
+												
+.lastul ul{
+list-style-type:none;
+padding-left:0px;
+float:left;	
+													
+}
+													
+.lastul ul li{
+float:left;
+margin-right:5px;
+
+}
+														
+.contact{
+padding-top:0px;														
+padding-left:220px;
+background-color:#009688;
+color:#E5D9D9;
+float:left;	}
+															
+
+																
+
+															
+.last{
+	padding-top:50px;															
+background-color:#009688;
+height:150px;
+margin-bottom:0px;
+
+
+}
+
+P{
+	
+	font-size:16px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-justify:auto;}
+	
+	
+	 .footer{
+		 
+		 background-color:#363232;
+		 height:30px;
+		  padding-right:100px;
+		 }
+		 
+		 h3{
+			 
+			 color:#E1D1D2;
+			 font-size:12px;
+			 font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+			 text-align:center;
+            margin-top:0px;
+			 line-height:30px;
+			 margin-left:100px;
+			}
+			 
+			 .lastul2 ul{
+list-style-type:none;
+padding-left:0px;
+													
+}
+													
+.lastul2 ul li{
+float:left;
+margin-right:20px;
+
+}
+														
+.we{
+padding-top:20px;														
+padding-left:600px;
+background-color:#009688;
+color:#E5D9D9;}
+							
+ p4{
+	 
+	  color:#E1D1D2;
+			 font-size:16px;
+			 font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+			 }
+			 
+			 
+			 .Sofa{
+				 
+				 
+	       margin-left: 475px;
+    margin-top:-45px;
+       width: 60px;
+    height: 30px;
+    color: #009688;
+    border-radius: 4px;
+    font-size:12px;
+    border: 2px solid #009688;
+    text-align: center;
+    line-height: 30.5px;
+	font-weight:bold;	
+	letter-spacing:1px; 
+
+
+   }
+   
+   button{
+		 
+	       margin-left: 406px;
+    margin-top:30px;
+	margin-bottom:30px;
+       width: 200px;
+    height: 42px;
+    color: #009688;
+    border-radius: 4px;
+    font-size: 12px;
+    border: 2px solid #009688;
+    text-align: center;
+    line-height: 30.5px; 
+   	
+		font-weight:bold;	
+	letter-spacing:1px; 
+	   
+	   }
+	   
+li.hov:last-child:hover {
+    background-color:#E1DDDD;;
+}
